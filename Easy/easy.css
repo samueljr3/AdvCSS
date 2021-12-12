@@ -1,0 +1,59 @@
+.stars{
+    width: 240px;
+    height: 176px;
+}
+.top-half{
+    width:1010px;
+    margin: 0;
+    padding: 0;
+}
+.bottom-half{
+    margin: 0;
+    padding: 0;
+}
+.red-top{
+    width: 480px;
+    height: 23px;
+    background-color: red;
+}
+.red-bottom{
+    width: 720px;
+    height: 23px;
+    background-color: red;
+}
+.white-top{
+    width: 480px;
+    height: 23px;
+    background-color: white;
+}
+.white-bottom{
+    width: 720px;
+    height: 23px;
+    background-color:white;
+}
+.test{
+    float: left;
+    margin:0;
+}
+.test2{
+    float: left;
+    margin:0;
+}
+
+td{
+    padding:0;
+}
+tr{
+    padding:0;
+}
+table{
+    padding:0;
+}
+main{
+    display:flex;
+    flex-direction: column;
+    padding: 0;
+}
+body{
+    padding: 0;
+}
