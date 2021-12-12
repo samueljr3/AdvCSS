@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    width: 800px;
+    flex-wrap: wrap;
+    border-style: solid;
+}
+.white{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+}
+
+.black{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
